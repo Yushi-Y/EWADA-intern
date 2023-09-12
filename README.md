@@ -1,4 +1,4 @@
-# Towards Privacy-preserving Recommendation 
+# Towards Privacy-preserving Recommendations on Solid 
 Develop collaborative filtering (CF) recommendation algorithms to be employed on Solid (Social Linked Data), a decentralised personal data architecture, with the goal to preserve user privacy.
 
 
