@@ -1,5 +1,5 @@
 # Privacy-preserving Recommendations on Solid 
-Develop collaborative filtering (CF) recommendation algorithms to be employed on Solidflix, a Solid-based movie recommendation sharing app. Solid (Social Linked Data) is a decentralised personal data architecture. The aim of the project is to preserve user privacy while using CF.
+Develop collaborative filtering (CF) recommendation algorithms to be employed on Solidflix, a Solid-based movie recommendation sharing app. Solid (Social Linked Data) is a decentralised personal data architecture (https://solidproject.org/) that aims to empower individual autonomy. The aim of the project is to preserve user privacy while doing CF.
 
 
 Directory structure:
